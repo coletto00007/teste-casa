@@ -1,0 +1,24 @@
+*{
+    border: 0;
+    padding: 0;
+}
+body{
+    background: url(imagem2.jpg)no-repeat rgb(75, 75, 75);
+    background-size: cover;
+    
+    
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+.dd1{
+    border:20px solid;
+    margin:0;
+}
+ul{
+    
+}
